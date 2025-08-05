@@ -20,3 +20,7 @@ th, td, caption {
     border-collapse: separate;
     padding: 0.5rem;
 }
+
+hr{ margin: 20px 0; }
+dd{ margin-left: 20px; }
+fieldset{ padding: 30px 15px;}
